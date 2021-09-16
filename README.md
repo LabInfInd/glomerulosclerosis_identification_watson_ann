@@ -1,0 +1,2 @@
+# glomerulosclerosis_identification_watson_ann
+Identification of Glomerulosclerosis Using IBM Watson And Shallow Neural Networks
